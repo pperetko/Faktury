@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.376,C:\LSI\Testowe\Faktury_test\Source\uDB.pas=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.710,C:\LSI\Testowe\Test\Main.pas=C:\Users\pperetko\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.563,C:\LSI\Testowe\Faktury_test\Source\fKontrahenciForm.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.468,C:\LSI\Testowe\Faktury_test\Source\fKontrahenciForm.pas=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.569,C:\LSI\Testowe\Faktury_test\Source\fKontrahenciForm.pas=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.007,C:\LSI\Testowe\Faktury_test\Source\fFirma.dfm=C:\LSI\Testowe\Faktury_test\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.240,=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.135,=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.045,=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.234,C:\LSI\Testowe\Faktury_test\Source\BaseMain.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.003,C:\LSI\Testowe\Faktury_test\Source\fFaktury.dfm=C:\LSI\Testowe\Faktury_test\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.443,E:\firma\Faktury\Test\Unit1.dfm=E:\firma\Faktury\Test\BaseMain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.061,E:\firma\Faktury\Test\Unit1.dfm=E:\firma\Faktury\Test\fKontrahenciForm.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.007,C:\LSI\Testowe\Faktury_test\Source\fFirma.pas=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.546,C:\LSI\Testowe\Test\Faktury.dproj=C:\Users\pperetko\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.003,C:\LSI\Testowe\Faktury_test\Source\fFaktury.pas=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.890,C:\LSI\Testowe\Faktury_test\Unit1.dfm=C:\LSI\Testowe\Faktury_test\Source\fKontrahenciLista.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.569,C:\LSI\Testowe\Faktury_test\Source\fKontrahenciForm.dfm=C:\LSI\Testowe\Faktury_test\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.468,C:\LSI\Testowe\Faktury_test\Source\fKontrahenciForm.dfm=C:\LSI\Testowe\Faktury_test\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.722,C:\LSI\Testowe\Faktury_test\Unit1.dfm=C:\LSI\Testowe\Faktury_test\Source\FModalBase.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.115,C:\LSI\Testowe\Faktury_test\Unit1.dfm=C:\LSI\Testowe\Faktury_test\Source\fKontrahenciForm.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.321,C:\LSI\Testowe\Faktury_test\Unit1.dfm=C:\LSI\Testowe\Faktury_test\Source\FModalList.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.573,=E:\firma\Faktury\Test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.110,=E:\firma\Faktury\Test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.321,C:\LSI\Testowe\Faktury_test\Unit1.pas=C:\LSI\Testowe\Faktury_test\Source\FModalList.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.462,=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.000,=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.710,C:\LSI\Testowe\Test\Main.dfm=C:\Users\pperetko\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.118,=C:\Users\pperetko\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.957,C:\LSI\Testowe\Faktury_test\Source\uFaktury.pas=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.443,E:\firma\Faktury\Test\Unit1.pas=E:\firma\Faktury\Test\BaseMain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.061,E:\firma\Faktury\Test\Unit1.pas=E:\firma\Faktury\Test\fKontrahenciForm.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.600,=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.722,C:\LSI\Testowe\Faktury_test\Unit1.pas=C:\LSI\Testowe\Faktury_test\Source\FModalBase.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.489,=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.683,=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.688,=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.280,=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.542,=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.676,C:\LSI\Testowe\Faktury_test\Unit1.pas=C:\LSI\Testowe\Faktury_test\Source\FTypes.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.890,C:\LSI\Testowe\Faktury_test\Unit1.pas=C:\LSI\Testowe\Faktury_test\Source\fKontrahenciLista.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.281,=C:\LSI\Testowe\Faktury_test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.115,C:\LSI\Testowe\Faktury_test\Unit1.pas=C:\LSI\Testowe\Faktury_test\Source\fKontrahenciForm.pas</Transaction>
+    <Transaction>2023-02-10 12:49:21.606,=E:\firma\Faktury\Faktury_test\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
